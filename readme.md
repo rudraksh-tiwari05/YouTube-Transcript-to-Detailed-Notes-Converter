@@ -71,5 +71,3 @@ Rudraksh Tiwari
 
 ---
 
-Feel free to customize this README as needed for your specific project and requirements.
-```
